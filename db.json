@@ -1,0 +1,24 @@
+{
+  "productos": [
+    {
+      "nombre": "Diamante al Máximo",
+      "material": "Oro 24k",
+      "peso": "17.4g",
+      "precio": 599000,
+      "stock": 5,
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFfpOw_QFR9oKW0gzUo_9l8EsC0sHkE00UiqfgIS9MEw&s=10",
+      "descripcion": "Hermosa manilla de 24k diseñada para llamar la atención a donde llegues y mostrar el verdadero lujo",
+      "id": 1
+    },
+    {
+      "nombre": "manilla de oro",
+      "material": "Oro 18k",
+      "peso": "15.0g",
+      "precio": 500000,
+      "stock": 8,
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0bWJTbdZJb1Cp_c2KsUnElQ8Xv3fcol4j_rtLNf7aBg&s",
+      "descripcion": "",
+      "id": 2
+    }
+  ]
+}

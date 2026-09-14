@@ -1,0 +1,17 @@
+{
+  "name": "joyeria-api",
+  "version": "1.0.0",
+  "description": "API REST simulada con JSON Server para la tienda de manillas de oro",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["json-server", "api", "joyeria"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.4"
+  }
+}
